@@ -4,7 +4,7 @@
 - Bump `version` in `package/manifest.json`
 - Run tests: `make test`
 - Create package: `make release`
-- Publish package at https://chrome.google.com/webstore/devconsole
+- Publish package at http://chrome.google.com/webstore/devconsole
   - Upload updated package
   - Update descriptions for each language: `make show-descriptions`
 - Commit: `git commit -a`
